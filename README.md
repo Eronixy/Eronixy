@@ -1,6 +1,6 @@
 # Hi, I'm Irron 👋
 
-**💻 Computer Science Student at Polytechnic University of the Philippines Class of 2026**
+**Computer Science Student at Polytechnic University of the Philippines Class of 2026**
 
 <div align="center">
 
