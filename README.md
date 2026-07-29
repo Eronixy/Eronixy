@@ -1,7 +1,5 @@
-<h2 align="center">Hi 👋! My name is Irron!</h2>
+![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=Eronixy&config=https%3A%2F%2Fraw.githubusercontent.com%2FEronixy%2FEronixy%2Fmain%2Fneofetch.json)
 
-###
----
 <br clear="both">
 
 <picture>
