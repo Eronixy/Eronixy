@@ -8,14 +8,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Eronixy/Eronixy/output/pacman-contribution-graph.svg">
 </picture>
 
-###
----
-<br clear="both">
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Eronixy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=voepqxqbx94ebe0s1sqmm1dq5&unique={true|1|on|yes}&width=900&count=3" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
