@@ -11,7 +11,7 @@
     },
     {
       "fields": [
-        { "key": "Languages", "value": "{{languages}}" },
+        { "key": "Languages", "value": "Python, C#, Java" },
         { "key": "IDE", "value": "VSCode" }
       ]
     },
